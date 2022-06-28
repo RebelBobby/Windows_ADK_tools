@@ -1,4 +1,4 @@
-# Typical termanal commands
+# Typical terminal commands
 
 copype amd64 E:\WinPE
 MakeWinPEMedia /ISO E:\WinPE E:\WinPE\WindowsPE_amd64.iso
