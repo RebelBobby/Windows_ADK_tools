@@ -38,3 +38,11 @@ test-computersecurechannel -repair
 restart-computer
 get-help about_* (remove get and push spacebar for page down)
 help
+-split ";"
+get-command -module configuration manager
+get-netipaddress -addressfamily ipv4 -interfacealias ethernet
+get-command -verb * -noun help
+find-module *
+git--alias
+new-alias -name wipe -value clear-host
+show-command get-eventlog
