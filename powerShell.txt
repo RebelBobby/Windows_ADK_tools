@@ -1,0 +1,8 @@
+# Powershell commands
+Press tab to auto complete
+ise integraded scripting environment
+start-transcript stop-transcript
+$PSVersionTable
+get-verb
+get-childitem
+get-command -module 
